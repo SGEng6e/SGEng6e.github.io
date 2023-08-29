@@ -53,8 +53,8 @@ Carleton University, Ottawa, Canada \| Bachelor's in Neuroscience and Biology \|
 
 Independent Contractor \| Research Analyst and Scientific Writer \| Jan 2021 - *present*
 
--   Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).
+- Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).
 
-Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| Jan 2020 - July 2020
+Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| Jan 2022 - July 2022
 
--   Analyzed and compared **machine learning** methods to detect weak signals and patterns in **high-dimensional data**. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms.
+- Analyzed and compared **machine learning** methods to detect weak signals and patterns in **high-dimensional data**. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms.
