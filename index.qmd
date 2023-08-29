@@ -33,30 +33,30 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
 
 ## Education
 
-University of British Columbia, Vancouver, Canada \| Ph.D. in Forest and Conservation Sciences \| Jan 2022 - *present*
+University of British Columbia, Vancouver, Canada \| Ph.D. in Forest and Conservation Sciences \| 2022 - *present*
 
 -   NSERC CGS-D
 -   Four-Year-Fellowship Award
 -   President's Academic Excellence Initiative PhD Award
 
-University of Toronto, Toronto, Canada \| Master's in Cell and Systems Biology \| Sept 2018 - Sept 2020
+University of Toronto, Toronto, Canada \| Master's in Cell and Systems Biology \| 2018 - 2020
 
 -   NSERC CGS-M
 -   Ontario Graduate Scholarship
 -   MITACS RTA
 
-Carleton University, Ottawa, Canada \| Bachelor's in Neuroscience and Biology \| Sept 2014 - June 2018
+Carleton University, Ottawa, Canada \| Bachelor's in Neuroscience and Biology \| 2014 - 2018
 
 -   Dean's Summer Research Internship
 
 ## Experience
 
-Independent Contractor \| Research Analyst and Scientific Writer \| Jan 2021 - *present*
+Independent Contractor \| Research Analyst and Scientific Writer \| 2021 - *present*
 
 - Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).
 
 - Contracts filled for the **Canadian Wildlife Service** and the **Pacific Wildlife Research Centre** at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the **University of California Davis**, including collaborations with NGOs, academic, and governmental agencies.
 
-Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| Jan 2022 - July 2022
+Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| 2022
 
 - Analyzed and compared **machine learning** methods to detect weak signals and patterns in **high-dimensional data**. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms.
