@@ -35,25 +35,27 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
 
 University of British Columbia, Vancouver, Canada \| Ph.D. in Forest and Conservation Sciences \| Jan 2022 - *present*
 
--   NSERC CGS-D (\$105'000 \[\$35'000 $\times$ 3 years\])
--   Four-Year-Fellowship Award (\$20'600)
--   President's Academic Excellence Initiative PhD Award (\$600)
+-   NSERC CGS-D
+-   Four-Year-Fellowship Award
+-   President's Academic Excellence Initiative PhD Award
 
 University of Toronto, Toronto, Canada \| Master's in Cell and Systems Biology \| Sept 2018 - Sept 2020
 
--   NSERC CGS-M (\$17'500)
--   Ontario Graduate Scholarship (\$15'000)
--   MITACS RTA (\$6'000)
+-   NSERC CGS-M
+-   Ontario Graduate Scholarship
+-   MITACS RTA
 
 Carleton University, Ottawa, Canada \| Bachelor's in Neuroscience and Biology \| Sept 2014 - June 2018
 
--   Dean's Summer Research Internship (\$4'600)
+-   Dean's Summer Research Internship
 
 ## Experience
 
 Independent Contractor \| Research Analyst and Scientific Writer \| Jan 2021 - *present*
 
 - Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).
+
+- Contracts filled for the **Canadian Wildlife Service** and the **Pacific Wildlife Research Centre** at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology, at the **University of California Davis**, including collaborations with other NGOs, academic, and governmental agencies.
 
 Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| Jan 2022 - July 2022
 
