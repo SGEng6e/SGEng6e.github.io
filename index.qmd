@@ -1,0 +1,60 @@
+---
+title: "Simon G. English"
+about:
+  id: hero-heading
+  template: trestles
+  image: Images/Simon-English.jpeg
+  links:
+    - icon: Images/
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Simon-English
+    - icon: github
+      text: Github
+      href: https://github.com/SGEng6e
+    - icon: Images/
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=z0LvYlYAAAAJ&hl=en
+---
+
+::: {#hero-heading}
+Simon is a quantitative biologist and scientific writer interested in *how* and *why* wild animal populations (especially birds) have changed through time.
+
+## Key Skills
+
+-   Scientific writing (see [select publications](contributions.qmd))
+-   Bayesian statistical model building with **NIMBLE** and **Stan**
+-   Programming with **R**, **LaTeX**, and **Markdown**
+-   Statistical analysis
+    -   Hidden Markov modelling for imperfectly observed data
+    -   Population viability analysis
+    -   Linear, generalized linear, mixed-effects, and censored regression
+    -   Stable isotope mixing models
+:::
+
+## Education
+
+University of British Columbia, Vancouver, Canada \| Ph.D. in Forest and Conservation Sciences \| Jan 2022 - *present*
+
+-   NSERC CGS-D (\$105'000 \[\$35'000 $\times$ 3 years\])
+-   Four-Year-Fellowship Award (\$20'600)
+-   President's Academic Excellence Initiative PhD Award (\$600)
+
+University of Toronto, Toronto, Canada \| Master's in Cell and Systems Biology \| Sept 2018 - Sept 2020
+
+-   NSERC CGS-M (\$17'500)
+-   Ontario Graduate Scholarship (\$15'000)
+-   MITACS RTA (\$6'000)
+
+Carleton University, Ottawa, Canada \| Bachelor's in Neuroscience and Biology \| Sept 2014 - June 2018
+
+-   Dean's Summer Research Internship (\$4'600)
+
+## Experience
+
+Independent Contractor \| Research Analyst and Scientific Writer \| Jan 2021 - *present*
+
+-   Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).
+
+Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| Jan 2020 - July 2020
+
+-   Analyzed and compared **machine learning** methods to detect weak signals and patterns in **high-dimensional data**. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms.
