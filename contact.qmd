@@ -2,9 +2,8 @@
 title: "Contact"
 ---
 
-::::::: {.columns}
-
-:::: {.column width="35%"}
+::::: {columns}
+::: {.column width="35%"}
 Send a message to start a conversation about your data and modelling needs. Simon will email you right back.
 
 <form action="https://formspree.io/f/mrgwqwgd" method="POST">
@@ -26,7 +25,7 @@ Send
 </button>
 
 </form>
-::::
+:::
 
 ::: {.column width="5%"}
 :::
@@ -35,4 +34,4 @@ Send
 ![](./Images/DSCxx38.JPG)
 :::
 
-:::::::
+:::::
