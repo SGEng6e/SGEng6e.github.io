@@ -23,14 +23,14 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
 
 -   Scientific writing (see [select publications](contributions.qmd))
 -   Programming with **R**, **LaTeX**, and **Markdown**
--   Geospatial data analysis with Google's **Earth Engine**
+-   Geospatial data analysis with the **Google Earth Engine**
 -   Bayesian statistical model building with **NIMBLE** and **Stan**
 -   Statistical analysis
-    -   Integrated population models
-    -   Continuous-time hidden Markov models
+    -   Integrated population modelling
+    -   Continuous-time hidden Markov modelling
     -   Population viability analysis
     -   Linear, generalized linear, mixed-effects, and censored regression
-    -   Stable isotope mixing-models
+    -   Stable isotope mixing-modelling
 :::
 
 ## Education
@@ -55,7 +55,7 @@ Carleton University, Ottawa, Canada \| Bachelor's in Neuroscience and Biology \|
 
 Independent Contractor \| Research Analyst and Scientific Writer \| 2021 - *present*
 
-- Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).
+- Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see [Publications](contributions.qmd) for select peer-reviewed works).
 
 - Contracts filled for the **Canadian Wildlife Service** and the **Pacific Wildlife Research Centre** at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the **University of California Davis**, including collaborations with NGOs, academic, and governmental agencies.
 

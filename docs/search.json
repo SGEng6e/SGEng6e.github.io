@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Simon G. English",
     "section": "",
-    "text": "ResearchGate\n  \n  \n    \n     Github\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nSimon is a quantitative biologist and scientific writer interested in how and why wild animal populations (especially birds) have changed through time.\n\n\n\nScientific writing (see select publications)\nBayesian statistical model building with NIMBLE and Stan\nProgramming with R, LaTeX, and Markdown\nStatistical analysis\n\nHidden Markov modelling for imperfectly observed data\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing models"
+    "text": "ResearchGate\n  \n  \n    \n     Github\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nSimon is a quantitative biologist and scientific writer interested in how and why wild animal populations (especially birds) have changed through time.\n\n\n\nScientific writing (see select publications)\nProgramming with R, LaTeX, and Markdown\nGeospatial data analysis with the Google Earth Engine\nBayesian statistical model building with NIMBLE and Stan\nStatistical analysis\n\nIntegrated population models\nContinuous-time hidden Markov models\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing-models"
   },
   {
     "objectID": "about.html",
@@ -25,7 +25,7 @@
     "href": "index.html#experience",
     "title": "Simon G. English",
     "section": "Experience",
-    "text": "Experience\nIndependent Contractor | Research Analyst and Scientific Writer | 2021 - present\n\nAnalyzed diverse datasets including geospatial, remote-sensing, environmental contaminant, and demographic monitoring data for assessing impacts of human activities on animal populations (see the Publications page for select peer-reviewed works).\nContracts filled for the Canadian Wildlife Service and the Pacific Wildlife Research Centre at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the University of California Davis, including collaborations with NGOs, academic, and governmental agencies.\n\nCanada Revenue Agency, Data Analytics and Exploration | Research Analyst | 2022\n\nAnalyzed and compared machine learning methods to detect weak signals and patterns in high-dimensional data. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms."
+    "text": "Experience\nIndependent Contractor | Research Analyst and Scientific Writer | 2021 - present\n\nAnalyzed diverse datasets including geospatial, remote-sensing, environmental contaminant, and demographic monitoring data for assessing impacts of human activities on animal populations (see Publications for select peer-reviewed works).\nContracts filled for the Canadian Wildlife Service and the Pacific Wildlife Research Centre at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the University of California Davis, including collaborations with NGOs, academic, and governmental agencies.\n\nCanada Revenue Agency, Data Analytics and Exploration | Research Analyst | 2022\n\nAnalyzed and compared machine learning methods to detect weak signals and patterns in high-dimensional data. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms."
   },
   {
     "objectID": "about.html#articles-published-in-or-submitted-to-peer-reviewed-journals",
@@ -60,7 +60,7 @@
     "href": "index.html#key-skills",
     "title": "Simon G. English",
     "section": "",
-    "text": "Scientific writing (see select publications)\nBayesian statistical model building with NIMBLE and Stan\nProgramming with R, LaTeX, and Markdown\nStatistical analysis\n\nHidden Markov modelling for imperfectly observed data\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing models"
+    "text": "Scientific writing (see select publications)\nProgramming with R, LaTeX, and Markdown\nGeospatial data analysis with the Google Earth Engine\nBayesian statistical model building with NIMBLE and Stan\nStatistical analysis\n\nIntegrated population models\nContinuous-time hidden Markov models\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing-models"
   },
   {
     "objectID": "about.html#publications-in-peer-reviewed-journals",
