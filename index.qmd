@@ -26,10 +26,11 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
 -   Geospatial data analysis with Google's **Earth Engine**
 -   Bayesian statistical model building with **NIMBLE** and **Stan**
 -   Statistical analysis
-    -   Hidden Markov modelling for imperfectly observed data
+    -   Integrated population models
+    -   Continuous-time hidden Markov models
     -   Population viability analysis
     -   Linear, generalized linear, mixed-effects, and censored regression
-    -   Stable isotope mixing models
+    -   Stable isotope mixing-models
 :::
 
 ## Education
