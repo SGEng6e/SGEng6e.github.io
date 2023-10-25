@@ -22,8 +22,9 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
 ## Key Skills
 
 -   Scientific writing (see [select publications](contributions.qmd))
--   Bayesian statistical model building with **NIMBLE** and **Stan**
 -   Programming with **R**, **LaTeX**, and **Markdown**
+-   Geospatial data analysis with Google's **Earth Engine**
+-   Bayesian statistical model building with **NIMBLE** and **Stan**
 -   Statistical analysis
     -   Hidden Markov modelling for imperfectly observed data
     -   Population viability analysis
