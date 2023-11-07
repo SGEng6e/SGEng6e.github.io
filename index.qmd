@@ -31,6 +31,7 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
     -   Population viability analysis
     -   Linear, generalized linear, mixed-effects, and censored regression
     -   Stable isotope mixing-modelling
+    
 :::
 
 ## Education
