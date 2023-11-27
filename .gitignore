@@ -4,3 +4,8 @@
 .Ruserdata
 _site/
 /.quarto/
+*.log
+*.synctex.gz
+*.tex
+*.pdf
+CV*
