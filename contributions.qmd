@@ -2,7 +2,7 @@
 title: "Scientific Contributions"
 ---
 
-## Select publications in peer-reviewed journals
+## Selected publications in peer-reviewed journals
 
 **English SG**, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. [Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses](https://doi.org/10.1098/rspb.2022.0991). *Proceedings of the Royal Society B* 289.
 
