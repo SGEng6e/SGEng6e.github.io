@@ -2,33 +2,26 @@
 title: "Contact"
 ---
 
-:::::::: {columns}
-
-:::: {.column width="35%"}
-
+::: {columns}
+::: {.column width="35%"}
 Send a message to start a conversation about your data and modelling needs. Simon will email you right back.
 
-<form
-  action="https://formspree.io/f/mrgwqwgd"
-  method="POST">
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
+<form action="https://formspree.io/f/mrgwqwgd" method="POST">
+
+<label> Your email: <input type="email" name="email"> </label> <label> Your message:
+
+```{=html}
+<textarea name="message"></textarea>
+```
+</label> <button type="submit">Send</button>
+
 </form>
+:::
 
-::::
+::: {.column width="2.5%"}
+:::
 
-:::: {.column width="2.5%"}
-::::
-
-:::: {.column width="60%"}
+::: {.column width="60%"}
 ![](./Images/DSCxx38.JPG)
-::::
-
-::::::::
+:::
+:::

@@ -8,4 +8,5 @@ _site/
 *.synctex.gz
 *.tex
 *.pdf
+*.qmd
 CV*
