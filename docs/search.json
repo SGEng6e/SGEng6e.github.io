@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Send a message to start a conversation about your data and modelling needs. Simon will email you right back.\n\n Your email:    Your message:\n\n Send"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Simon G. English",
     "section": "",
-    "text": "ResearchGate\n  \n  \n    \n     Github\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nSimon is a quantitative biologist and scientific writer interested in how and why wild animal populations (especially birds) have changed through time.\n\n\n\nScientific writing (see select publications)\nProgramming with R, LaTeX, and Markdown\nGeospatial data analysis with the Google Earth Engine\nBayesian statistical model building with NIMBLE and Stan\nStatistical analysis\n\nIntegrated population models\nContinuous-time hidden Markov models\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing-models"
+    "text": "ResearchGate\n  \n  \n    \n     Github\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nSimon is a quantitative biologist and scientific writer interested in how and why wild animal populations (especially birds) have changed through time.\n\n\n\nScientific writing (see selected publications)\nProgramming with R, LaTeX, and Markdown\nGeospatial data analysis with the Google Earth Engine\nBayesian statistical model building with NIMBLE and Stan\nStatistical analysis\n\nIntegrated population modelling\nContinuous-time hidden Markov modelling\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing-modelling"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Contributions",
+    "objectID": "index.html#key-skills",
+    "href": "index.html#key-skills",
+    "title": "Simon G. English",
     "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proc. R. Soc. B. 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Env. Res. 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. J. Field Ornithol. 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Sci. Rep. 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study* . Environ. Toxicol. Chem. 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Sci. Rep. 11."
+    "text": "Scientific writing (see selected publications)\nProgramming with R, LaTeX, and Markdown\nGeospatial data analysis with the Google Earth Engine\nBayesian statistical model building with NIMBLE and Stan\nStatistical analysis\n\nIntegrated population modelling\nContinuous-time hidden Markov modelling\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing-modelling"
   },
   {
     "objectID": "index.html#education",
@@ -25,63 +32,7 @@
     "href": "index.html#experience",
     "title": "Simon G. English",
     "section": "Experience",
-    "text": "Experience\nIndependent Contractor | Research Analyst and Scientific Writer | 2021 - present\n\nAnalyzed diverse datasets including geospatial, remote-sensing, environmental contaminant, and demographic monitoring data for assessing impacts of human activities on animal populations (see Publications for select peer-reviewed works).\nContracts filled for the Canadian Wildlife Service and the Pacific Wildlife Research Centre at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the University of California Davis, including collaborations with NGOs, academic, and governmental agencies.\n\nCanada Revenue Agency, Data Analytics and Exploration | Research Analyst | 2022\n\nAnalyzed and compared machine learning methods to detect weak signals and patterns in high-dimensional data. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms."
-  },
-  {
-    "objectID": "about.html#articles-published-in-or-submitted-to-peer-reviewed-journals",
-    "href": "about.html#articles-published-in-or-submitted-to-peer-reviewed-journals",
-    "title": "Publications",
-    "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of partially migratory California hummingbirds using single-site dynamics and mark-redetection analyses. Proc. R. Soc. B. 289.}\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Env. Res. 208, 112702\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. J. Field Ornithol. 92, 475-484\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Sci. Rep. 11.}\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study. Environ. Toxicol. Chem. 40, 3369-3378. \nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Sci. Rep. 11.}\nEnglish SG, Hadj-Moussa H, Storey KB. 2018. MicroRNAs regulate survival in oxygen-deprived environments. J. Exp. Biol. 221, jeb190579.}"
-  },
-  {
-    "objectID": "about.html#articles-published-in-peer-reviewed-journals",
-    "href": "about.html#articles-published-in-peer-reviewed-journals",
-    "title": "Publications",
-    "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of partially migratory California hummingbirds using single-site dynamics and mark-redetection analyses. Proc. R. Soc. B. 289.}\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Env. Res. 208, 112702\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. J. Field Ornithol. 92, 475-484\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Sci. Rep. 11.}\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study. Environ. Toxicol. Chem. 40, 3369-3378. \nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Sci. Rep. 11.}"
-  },
-  {
-    "objectID": "about.html#invited-talks",
-    "href": "about.html#invited-talks",
-    "title": "Contributions",
-    "section": "Invited talks",
-    "text": "Invited talks\nEnglish SG, et al.. 2022. Hummingbird Demography in northwestern North America. In Rocky Point Bird Observatory - 2022 Hummingbird Meeting.\nEnglish SG, et al.. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Rocky Point Bird Observatory - 2019 Hummingbird Meeting, Chilliwack, Canada."
-  },
-  {
-    "objectID": "about.html#podium-presentations",
-    "href": "about.html#podium-presentations",
-    "title": "Contributions",
-    "section": "Podium presentations",
-    "text": "Podium presentations\nEnglish SG, et al.. 2023. Anthropogenic and mechanistic drivers of contrasting demographic changes in hummingbirds. In American Ornithological Society & Society of Canadian Ornithologists, London, Canada.\nEnglish SG, et al.. 2023. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. In EURING Analytical Meeting, Montpellier, France.\nEnglish SG, et al.. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Society of Environmental Toxicology and Chemistry North America, Toronto, Canada.\nEnglish SG, et al.. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Canadian Society of Zoologists, Windsor, Canada."
-  },
-  {
-    "objectID": "index.html#key-skills",
-    "href": "index.html#key-skills",
-    "title": "Simon G. English",
-    "section": "",
-    "text": "Scientific writing (see select publications)\nProgramming with R, LaTeX, and Markdown\nGeospatial data analysis with the Google Earth Engine\nBayesian statistical model building with NIMBLE and Stan\nStatistical analysis\n\nIntegrated population models\nContinuous-time hidden Markov models\nPopulation viability analysis\nLinear, generalized linear, mixed-effects, and censored regression\nStable isotope mixing-models"
-  },
-  {
-    "objectID": "about.html#publications-in-peer-reviewed-journals",
-    "href": "about.html#publications-in-peer-reviewed-journals",
-    "title": "Scientific Contributions",
-    "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proc. R. Soc. B. 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Env. Res. 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. J. Field Ornithol. 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Sci. Rep. 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study* . Environ. Toxicol. Chem. 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Sci. Rep. 11."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Send a message to start a conversation about your data and modelling needs. Simon will email you right back.\n\n Your email:    Your message:\n\n Send"
-  },
-  {
-    "objectID": "about.html#sec-pubs",
-    "href": "about.html#sec-pubs",
-    "title": "Contributions",
-    "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proc. R. Soc. B. 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Env. Res. 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. J. Field Ornithol. 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Sci. Rep. 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study* . Environ. Toxicol. Chem. 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Sci. Rep. 11."
+    "text": "Experience\nIndependent Contractor | Research Analyst and Scientific Writer | 2021 - present\n\nAnalyzed diverse datasets including geospatial, remote-sensing, environmental contaminant, and demographic monitoring data for assessing impacts of human activities on animal populations (see Publications for selected peer-reviewed works).\nContracts filled for the Canadian Wildlife Service and the Pacific Wildlife Research Centre at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the University of California Davis, including collaborations with NGOs, academic, and governmental agencies.\n\nCanada Revenue Agency, Data Analytics and Exploration | Research Analyst | 2022\n\nAnalyzed and compared machine learning methods to detect weak signals and patterns in high-dimensional data. Wrote R scripts to conduct simulation experiments using neural-network and random forest algorithms."
   },
   {
     "objectID": "contributions.html",
@@ -91,11 +42,11 @@
     "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proceedings of the Royal Society B 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Environmental Research 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. Journal of Field Ornithology 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Scientific Reports 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study*. Environmental Toxicology and Chemistry 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Scientific Reports 11."
   },
   {
-    "objectID": "contributions.html#sec-pubs",
-    "href": "contributions.html#sec-pubs",
-    "title": "Contributions",
+    "objectID": "contributions.html#selected-publications-in-peer-reviewed-journals",
+    "href": "contributions.html#selected-publications-in-peer-reviewed-journals",
+    "title": "Scientific Contributions",
     "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proc. R. Soc. B. 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Env. Res. 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. J. Field Ornithol. 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Sci. Rep. 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study* . Environ. Toxicol. Chem. 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Sci. Rep. 11."
+    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proceedings of the Royal Society B 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Environmental Research 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. Journal of Field Ornithology 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Scientific Reports 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study*. Environmental Toxicology and Chemistry 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Scientific Reports 11."
   },
   {
     "objectID": "contributions.html#invited-talks",
@@ -110,12 +61,5 @@
     "title": "Scientific Contributions",
     "section": "Podium presentations",
     "text": "Podium presentations\nEnglish SG, et al.. 2023. Anthropogenic and mechanistic drivers of contrasting demographic changes in hummingbirds. In American Ornithological Society & Society of Canadian Ornithologists, London, Canada.\nEnglish SG, et al.. 2023. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. In EURING Analytical Meeting, Montpellier, France.\nEnglish SG, et al.. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Society of Environmental Toxicology & Chemistry North America, Toronto, Canada.\nEnglish SG, et al.. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Society of Environmental Toxicology & Chemistry Latin America, Cartagena, Colombia.\nEnglish SG, et al.. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Canadian Society of Zoologists, Windsor, Canada."
-  },
-  {
-    "objectID": "contributions.html#select-publications-in-peer-reviewed-journals",
-    "href": "contributions.html#select-publications-in-peer-reviewed-journals",
-    "title": "Scientific Contributions",
-    "section": "",
-    "text": "English SG, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. Proceedings of the Royal Society B 289.\nEnglish SG, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird. Environmental Research 208, 112702.\nEnglish SG, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA. Journal of Field Ornithology 92, 475-484.\nEnglish SG, Bishop CA, Wilson S, Adam SC. 2021. Current contrasting population trends among North American hummingbirds. Scientific Reports 11.\nRead WF, English SG, Hick KG, Bishop CA. 2021. Bluebirds experience impaired hatching success in conventionally sprayed apple orchard habitats: a 31-year study*. Environmental Toxicology and Chemistry 40, 3369-3378.\n* Environmental Toxicology and Chemistry’s top 10 Exceptional Papers of 2021\nEnglish SG, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. Neonicotinoid pesticides exert metabolic effects on avian pollinators. Scientific Reports 11."
   }
 ]
