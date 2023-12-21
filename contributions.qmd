@@ -4,6 +4,8 @@ title: "Scientific Contributions"
 
 ## Selected publications in peer-reviewed journals
 
+**English SG**, Wilson S, Zhao Q, Bishop CA, Moran AJ. 2024. [Demographic mechanisms and anthropogenic drivers of contrasting population dynamics of hummingbirds](https://doi.org/10.1016/j.biocon.2023.110415). *Biological Conservation* 289.
+
 **English SG**, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. [Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses](https://doi.org/10.1098/rspb.2022.0991). *Proceedings of the Royal Society B* 289.
 
 **English SG**, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. [Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird](https://doi.org/10.1016/j.envres.2022.112702). *Environmental Research* 208, 112702.

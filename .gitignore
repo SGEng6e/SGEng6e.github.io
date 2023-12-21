@@ -9,4 +9,5 @@ _site/
 *.tex
 *.pdf
 *.qmd
+docs/*/*
 CV*

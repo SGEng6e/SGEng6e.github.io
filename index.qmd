@@ -23,7 +23,7 @@ Simon is a quantitative biologist and scientific writer interested in *how* and 
 
 -   Scientific writing (see [selected publications](contributions.qmd))
 -   Programming with **R**, **LaTeX**, and **Markdown**
--   Geospatial data analysis with the **Google Earth Engine**
+-   Geospatial analysis with the **Google Earth Engine**
 -   Bayesian statistical model building with **NIMBLE** and **Stan**
 -   Statistical analysis
     -   Integrated population modelling
