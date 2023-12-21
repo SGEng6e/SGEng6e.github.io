@@ -3,15 +3,15 @@ title: "Simon G. English"
 about:
   id: hero-heading
   template: trestles
-  image: ./Images/Simon-English.jpeg
+  image: Images/Simon-English.jpeg
   links:
-    - icon: ./Images/
+    - icon: Images/
       text: ResearchGate
       href: https://www.researchgate.net/profile/Simon-English
     - icon: github
       text: Github
       href: https://github.com/SGEng6e
-    - icon: ./Images/
+    - icon: Images/
       text: Google Scholar
       href: https://scholar.google.com/citations?user=z0LvYlYAAAAJ&hl=en
 ---

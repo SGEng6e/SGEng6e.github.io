@@ -22,6 +22,6 @@ Send a message to start a conversation about your data and modelling needs. Simo
 :::
 
 ::: {.column width="60%"}
-![](./Images/DSCxx38.JPG)
+![](Images/DSCxx38.JPG)
 :::
 :::
