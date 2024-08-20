@@ -4,6 +4,8 @@ title: "Scientific Contributions"
 
 ## Selected publications in peer-reviewed journals
 
+**English SG**, Bishop CA, Bieber M, Elliott JE. 2024. [Following Regulation, Imidacloprid Persists and Flupyradifurone Increases in Nontarget Wildlife](https://doi.org/10.1002/etc.5892). *Environmental Toxicology and Chemistry* 43.
+
 **English SG**, Wilson S, Zhao Q, Bishop CA, Moran AJ. 2024. [Demographic mechanisms and anthropogenic drivers of contrasting population dynamics of hummingbirds](https://doi.org/10.1016/j.biocon.2023.110415). *Biological Conservation* 289.
 
 **English SG**, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. [Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses](https://doi.org/10.1098/rspb.2022.0991). *Proceedings of the Royal Society B* 289.
@@ -27,6 +29,8 @@ English SG, *et al.*. 2022. Hummingbird Demography in northwestern North America
 English SG, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Rocky Point Bird Observatory Hummingbird Meeting, Chilliwack, Canada.
 
 ## Podium presentations
+
+English SG, *et al.*. 2024. Quantifying human socioeconomic predictors of land cover change and habitat loss for migratory birds. In The International Statistical Ecology Conference, Swansea, Wales.
 
 English SG, *et al.*. 2023. Anthropogenic and mechanistic drivers of contrasting demographic changes in hummingbirds. In American Ornithological Society & Society of Canadian Ornithologists, London, Canada.
 

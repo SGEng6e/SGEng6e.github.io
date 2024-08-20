@@ -4,7 +4,7 @@ title: "Contact"
 
 ::: {columns}
 ::: {.column width="35%"}
-Send a message to start a conversation about your data and modelling needs. Simon will email you right back.
+Send a message to start a conversation about your data and modelling needs. I will get right back to you.
 
 <form action="https://formspree.io/f/mrgwqwgd" method="POST">
 

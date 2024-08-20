@@ -17,19 +17,19 @@ about:
 ---
 
 ::: {#hero-heading}
-Simon is a quantitative biologist and scientific writer interested in *how* and *why* wild animal populations (especially birds) have changed through time.
+I am a quantitative biologist and scientific writer interested in *how* and *why* wild animal populations (especially birds) have changed through time.
 
 ## Key Skills
 
 -   Scientific writing (see [selected publications](contributions.qmd))
--   Programming with **R**, **LaTeX**, and **Markdown**
--   Geospatial analysis with the **Google Earth Engine**
 -   Bayesian statistical model building with **NIMBLE** and **Stan**
--   Statistical analysis
-    -   Integrated population modelling
+-   Geospatial analysis with the **Google Earth Engine**
+-   Programming with **R**, **LaTeX**, and **Markdown**
+-   Expertise in analysis of diverse and varied real-world datasets:
+    -   Integrated modelling of population dynamics
+    -   Censored data analysis
+    -   Nonlinear modelling
     -   Continuous-time hidden Markov modelling
-    -   Population viability analysis
-    -   Linear, generalized linear, mixed-effects, and censored regression
     -   Stable isotope mixing-modelling
     
 :::
@@ -58,7 +58,7 @@ Independent Contractor \| Research Analyst and Scientific Writer \| 2021 - *pres
 
 - Analyzed diverse datasets including **geospatial**, **remote-sensing**, **environmental contaminant**, and **demographic monitoring** data for assessing impacts of human activities on animal populations (see [Publications](contributions.qmd) for selected peer-reviewed works).
 
-- Contracts filled for the **Canadian Wildlife Service** and the **Pacific Wildlife Research Centre** at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the **University of California Davis**, including collaborations with NGOs, academic, and governmental agencies.
+- Contracts filled for the **Canadian Wildlife Service** and the **Pacific Wildlife Research Centre** at Environment and Climate Change Canada, the Department of Veterinary Medicine and Epidemiology at the **University of California Davis**, **Thompson Rivers University**, including collaborations with NGOs, academic, and governmental agencies.
 
 Canada Revenue Agency, Data Analytics and Exploration \| Research Analyst \| 2022
 
