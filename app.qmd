@@ -2,8 +2,7 @@
 title: "Establishment Reviews"
 format: 
   html:
-    grid:
-      body-width: 9600px
+    page-layout: full
     resources: 
       - shinylive-sw.js
 filters:
