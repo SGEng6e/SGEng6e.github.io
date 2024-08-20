@@ -4,5 +4,6 @@
 !**/*.Rmd
 !**/*.qmd
 !**/*.html
+!/docs/*.*
 .Rproj.user
 /.quarto/
