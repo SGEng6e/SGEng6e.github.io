@@ -3,7 +3,7 @@ title: "Establishment Reviews"
 format: 
   html:
     grid:
-      body-width: 6400px
+      body-width: 8000px
     resources: 
       - shinylive-sw.js
 filters:
