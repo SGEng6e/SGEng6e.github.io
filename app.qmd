@@ -2,7 +2,7 @@
 title: "Establishment Reviews"
 format: 
   html:
-    page-layout: custom
+    page-layout: full
     resources: 
       - shinylive-sw.js
 filters:
@@ -10,6 +10,7 @@ filters:
 ---
 ```{shinylive-r}
 #| standalone: true
+#| column: page
 #| viewerHeight: 1000
 
 library(shiny) # 1.8.0
@@ -504,15 +505,16 @@ ui <- shinyUI(fluidPage(
                   max = 10,
                   value = 0),
       numericInput("radius", "Search radius (km)", min = 0, max = NA, value = NA),
-      checkboxGroupInput("ologs", label = "What would you like to do?", inline = T,
+      checkboxGroupInput("ologs", label = "What would you like to do?", inline = T, width = '80%',
                          choices = c("Eat", "Drink", "Caffeinate", "Recreate", "Study")),
-      checkboxGroupInput("criteria", label = "What criteria are important?", inline = T,
-                         choices = c("Food", "Drinks", "Atmosphere", "Service", "Price")),
+      checkboxGroupInput("criteria", label = "What criteria are important?", inline = T, width = '80%',
+                         choices = c("Food", "Drinks", "Price", "Atmosphere", "Service")),
       checkboxGroupInput("continents", "Select continent of origin:",
                          choices = levels(factor(reviews$Continent))
                          # selected = levels(factor(reviews$Continent))
                          ),
-      plotOutput('plot',   height = "300px")
+      plotOutput('plot',   height = "300px"),
+      width = 4
     ),
     # Main panel for displaying outputs ----
     mainPanel(
@@ -520,7 +522,7 @@ ui <- shinyUI(fluidPage(
         type = "tabs",
         tabPanel("Map", leafletOutput("map", width = "100%", height = "850px")),
         tabPanel("Data", DTOutput("tbl")),
-        tabPanel("About", htmlOutput("abt"))),
+        tabPanel("About", htmlOutput("abt"))), width = 8
     )
   )
 ))
