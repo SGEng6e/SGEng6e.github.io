@@ -3,9 +3,9 @@ title: "Establishment Reviews"
 format: 
   html:
     grid:
-      sidebar-width: 50px
+      sidebar-width: 150px
       body-width: 1200px
-      margin-width: 50px
+      margin-width: 150px
       gutter-width: 1.5em
     resources: 
       - shinylive-sw.js
@@ -14,7 +14,7 @@ filters:
 ---
 ```{shinylive-r}
 #| standalone: true
-#| column: page
+#| column: page-inset
 #| viewerHeight: 1000
 
 library(shiny) # 1.8.0
