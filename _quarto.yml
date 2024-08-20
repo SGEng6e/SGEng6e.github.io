@@ -5,7 +5,7 @@ website:
   title: "SGEng6e.github.io"
   navbar:
     left:
-      - href: landing.qmd
+      - href: index.qmd
         text: Home
       - contributions.qmd
       - contact.qmd

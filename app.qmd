@@ -2,7 +2,7 @@
 title: "Establishment Reviews"
 format: 
   html:
-    page-layout: full
+    page-layout: custom
     resources: 
       - shinylive-sw.js
 filters:
