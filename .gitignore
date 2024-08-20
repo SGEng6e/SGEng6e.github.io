@@ -1,9 +1,6 @@
 *
 !.gitignore
 !*/
-!**/*.Rmd
-!**/*.qmd
-!**/*.html
-!/docs/*.*
-.Rproj.user
+!docs/**
+
 /.quarto/
