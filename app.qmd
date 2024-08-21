@@ -12,6 +12,7 @@ format:
 filters:
   - shinylive
 ---
+
 ```{shinylive-r}
 #| standalone: true
 #| column: page-inset
