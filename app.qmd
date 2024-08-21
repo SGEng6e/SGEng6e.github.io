@@ -2,15 +2,16 @@
 title: "Establishment Reviews"
 filters:
   - shinylive
-format: 
-  html:
-    resources: 
+format:
+  html: 
+    page-layout: full
+    resources:
       - shinylive-sw.js
 ---
 
 ```{shinylive-r}
 #| standalone: true
-#| column: page-inset
+#| column: screen-inset-right
 #| viewerHeight: 1000
 
 library(shiny) # 1.8.0
