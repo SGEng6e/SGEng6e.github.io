@@ -740,11 +740,15 @@ server &lt;- function(input, output, session) {
   output$tbl &lt;- renderDT({
     datatable(data = filt() %&gt;% 
                 select(Name, Style, Continent, Score),
-              options = list(scrollY = 500,
+              fillContainer = T,
+              selection = "single",
+              editable = F,
+              options = list(scrollY = 725,
                              scrollX = 600,
                              deferRender = T,
                              scroller = T,
-                             fixedColumns = F))
+                             fixedColumns = F,
+                             pageLength = 50))
   })
   
   output$abt &lt;- renderUI({
