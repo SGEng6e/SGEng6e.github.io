@@ -7,7 +7,6 @@ format:
       body-width: 800px
       margin-width: 250px
       gutter-width: 1.5em
-
 ---
 
 ::: {columns}
