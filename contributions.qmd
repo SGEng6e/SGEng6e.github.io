@@ -5,17 +5,24 @@ format:
     page-layout: article
 ---
 
-## Selected publications in peer-reviewed journals
+
+# Peer-Reviewed Publications
 
 **English SG**, Bishop CA, Bieber M, Elliott JE. 2024. [Following Regulation, Imidacloprid Persists and Flupyradifurone Increases in Nontarget Wildlife](https://doi.org/10.1002/etc.5892). *Environmental Toxicology and Chemistry* 43.
 
-**English SG**, Wilson S, Zhao Q, Bishop CA, Moran AJ. 2024. [Demographic mechanisms and anthropogenic drivers of contrasting population dynamics of hummingbirds](https://doi.org/10.1016/j.biocon.2023.110415). *Biological Conservation* 289.
+Elliott JE, Silverthorn V, **English SG**, *et al.*. 2024. [Anticoagulant Rodenticide Toxicity in Terrestrial Raptors: Tools to Estimate the Impact on Populations in North America and Globally](https://doi.org/10.1002/etc.5829). *Environmental Toxicology and Chemistry* 43.
 
-**English SG**, Wilson S, Bandivadekar R, Graves EE, Holyoak M, Brown J, Tell LA. 2022. [Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses](https://doi.org/10.1098/rspb.2022.0991). *Proceedings of the Royal Society B* 289.
+**English SG**, Wilson S, Zhao Q, *et al.*. 2024. [Demographic mechanisms and anthropogenic drivers of contrasting population dynamics of hummingbirds](https://doi.org/10.1016/j.biocon.2023.110415). *Biological Conservation* 289.
 
-**English SG**, Hess H, Bishop CA, Porter E, Cheng KM, Elliott JE. 2022. [Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird](https://doi.org/10.1016/j.envres.2022.112702). *Environmental Research* 208, 112702.
+**English SG**, Wilson S, Bandivadekar R, *et al.*. 2022. [Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses](https://doi.org/10.1098/rspb.2022.0991). *Proceedings of the Royal Society B* 289.
 
-**English SG**, Colwell RR, Robinson BW, Ernest HB, Bishop CA, Bandivadekar R, Tell LA. 2021. [Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA](https://onlinelibrary.wiley.com/doi/10.1111/jofo.12396?af=R). *Journal of Field Ornithology* 92, 475-484.
+Galvin AN, Pandit PS, **English SG**, *et al.*. 2022. [Evaluation of minimally invasive sampling methods for detecting Avipoxvirus: Hummingbirds as a case example](https://doi.org/10.3389/fvets.2022.924854). *Frontiers in Veterinary Science* 9.
+
+Bishop CA, **English SG**, Maisonneuve F, *et al.*. 2022. [Temporal and spatial patterns of systemic insecticides in avian and insect pollinators and flowers in western Canada (2018, 2019)](https://doi.org/10.1016/j.envadv.2022.100211). *Environmental Advances* 8.
+
+**English SG**, Hess H, Bishop CA, *et al.*. 2022. [Bioaccumulation and effects of selenium from surface coal mining on an aquatic songbird](https://doi.org/10.1016/j.envres.2022.112702). *Environmental Research* 208, 112702.
+
+**English SG**, Colwell RR, Robinson BW, *et al.*. 2021. [Demography of two species and one genus of hummingbirds with contrasting population trends in California, USA](https://onlinelibrary.wiley.com/doi/10.1111/jofo.12396?af=R). *Journal of Field Ornithology* 92, 475-484.
 
 **English SG**, Bishop CA, Wilson S, Adam SC. 2021. [Current contrasting population trends among North American hummingbirds](https://doi.org/10.1038/s41598-021-97889-x). *Scientific Reports* 11.
 
@@ -23,24 +30,29 @@ Read WF, **English SG**, Hick KG, Bishop CA. 2021. [Bluebirds experience impaire
 
 **\*** Environmental Toxicology and Chemistry's top 10 Exceptional Papers of 2021
 
-**English SG**, Sandoval-Herrera NI, Bishop CA, Cartwright M, Maisonneuve F, Elliott JE, Welch Jr. KC. 2021. [Neonicotinoid pesticides exert metabolic effects on avian pollinators](https://doi.org/10.1038/s41598-021-82470-3). *Scientific Reports* 11.
+**English SG**, Sandoval-Herrera NI, Bishop CA, *et al.*. 2021. [Neonicotinoid pesticides exert metabolic effects on avian pollinators](https://doi.org/10.1038/s41598-021-82470-3). *Scientific Reports* 11.
 
+**English SG**, Hadj-Moussa H, Storey KB. 2018. [MicroRNAs regulate survival in oxygen-deprived environments](https://doi.org/10.1242/jeb.190579). *Journal of Experimental Biology* 221.
+
+Zhang Y, **English SG**, Storey KB. 2018. [Regulation of nuclear factor of activated T cells (NFAT) and downstream myogenic proteins during dehydration in the African clawed frog](https://doi.org/10.1007/s11033-018-4214-8). *Molecular Biology Reports* 45.
+
+# Oral Presentations
 ## Invited talks
 
-English SG, *et al.*. 2022. Hummingbird Demography in northwestern North America. In Rocky Point Bird Observatory Hummingbird Meeting.
+**English SG**, *et al.*. 2023. Anthropogenic and mechanistic drivers of contrasting demographic changes in hummingbirds. In American Ornithological Society & Society of Canadian Ornithologists, London, Canada.
 
-English SG, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (Archilochus colubris). In Rocky Point Bird Observatory Hummingbird Meeting, Chilliwack, Canada.
+**English SG**, *et al.*. 2022. Hummingbird Demography in northwestern North America. In Rocky Point Bird Observatory Hummingbird Meeting.
+
+**English SG**, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Rocky Point Bird Observatory Hummingbird Meeting, Chilliwack, Canada.
 
 ## Podium presentations
 
-English SG, *et al.*. 2024. Quantifying human socioeconomic predictors of land cover change and habitat loss for migratory birds. In International Statistical Ecology Conference, Swansea, Wales.
+**English SG**, *et al.*. 2024. Quantifying human socioeconomic predictors of land cover change and habitat loss for migratory birds. In The International Statistical Ecology Conference, Swansea, Wales.
 
-English SG, *et al.*. 2023. Anthropogenic and mechanistic drivers of contrasting demographic changes in hummingbirds. In American Ornithological Society & Society of Canadian Ornithologists, London, Canada.
+**English SG**, *et al.*. 2023. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. In EURING Analytical Meeting, Montpellier, France.
 
-English SG, *et al.*. 2023. Quantifying phenology and migratory behaviours of hummingbirds using single-site dynamics and mark-detection analyses. In EURING Analytical Meeting, Montpellier, France.
+**English SG**, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Society of Environmental Toxicology & Chemistry North America, Toronto, Canada.
 
-English SG, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Society of Environmental Toxicology & Chemistry North America, Toronto, Canada.
+**English SG**, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Society of Environmental Toxicology & Chemistry Latin America, Cartagena, Colombia.
 
-English SG, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Society of Environmental Toxicology & Chemistry Latin America, Cartagena, Colombia.
-
-English SG, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Canadian Society of Zoologists, Windsor, Canada.
+**English SG**, *et al.*. 2019. An integrative analysis of the effects of imidacloprid on the ruby-throated hummingbird (*Archilochus colubris*). In Canadian Society of Zoologists, Windsor, Canada.
